@@ -1,3 +1,6 @@
+# [DEPRECATED] Use this instead: https://github.com/lentil32/wireguard-with-adguard
+
+
 ## Installation
 ### Initiate cloud environment.
 Run the command: `chmod +x init_cloud.sh && ./init_cloud.sh`
