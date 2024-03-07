@@ -22,7 +22,7 @@ chmod +x get_peer.sh # make `get_peer.sh` executable.
 Using `WireGuard` mobile app to recognize QR code, you can connect to the VPN.
 
 ### How to set AdGuard Home
-- AdGuard Home dashboard URL is `http://10.2.0.100/`. (If not work, change browser and try again!)
+- AdGuard Home dashboard URL is `http://10.2.0.100:3000`. (If not work, change browser and try again!)
 - DNS
 	- Upstream DNS servers
 		- `10.2.0.200`
